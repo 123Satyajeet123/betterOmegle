@@ -14,6 +14,8 @@ function App() {
           <Route path="/room" element={<Room/>} />
         </Routes>
       </BrowserRouter>
+{/* 
+      <Landing/> */}
     </>
   )
 }
